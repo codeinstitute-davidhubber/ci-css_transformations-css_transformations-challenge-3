@@ -1,0 +1,15 @@
+.element
+{
+    width: 150px;
+    height: 150px;
+
+    transition-timing-function: ease-in-out;
+    transition-duration: 1s;
+
+    background-color: tomato;
+}
+
+.element:hover
+{
+    transform: translateX(100%);
+}
