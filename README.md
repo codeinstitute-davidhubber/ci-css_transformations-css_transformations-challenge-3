@@ -1,14 +1,37 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+## CSS Transformations - Challenge 3
+
+***
+     ____  _   _ ____ _____ _   _ ____ ___ ___  
+    |  _ \| | | / ___|_   _| | | |  _ \_ _/ _ \ 
+    | | | | |_| \___ \ | | | | | | | | | | | | |
+    | |_| |  _  |___) || | | |_| | |_| | | |_| |
+    |____/|_| |_|____/ |_|  \___/|____/___\___/ 
+    -------------------------------------------
+    .design
+    
+***  
+title: **'CSS Transformations - Challenge 3'**
+
+description: **'When hovered, move a div with a class of element on X axis by 100% in 1 second. Apply transitions.'**
+
+author: **[DHSTUDIO](https://dhstudio.design "Title")** 
+
+author url: **<https://dhstudio.design>** 
+
+technology: **This project was written in HTML & CSS using [AWS Cloud9](https://aws.amazon.com/cloud9/ "Cloud9")**
+
+project url: **'https://davidhubber.github.io/css_transformations-css_transformations-challenge-3/'**  
 
 
-Hi there! Welcome to AWS Cloud9!
+***
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+#### This website was built as part of the learning material for Code Institutes' Fullstack Web Developer program.
+ 
+ 
+***
+credits: 
 
-Happy coding!
+**• generated title ASCII-Font url › [patorjk.com](http://patorjk.com/software/taag/#p=display&c=bash&f=Jerusalem&t=DHSTUDIO "Title")**
+
+# CSS Transformations - Challenge 3
+
