@@ -32,4 +32,4 @@ credits:
 
 **• generated title ASCII-Font url › [patorjk.com](http://patorjk.com/software/taag/#p=display&c=bash&f=Jerusalem&t=DHSTUDIO "Title")**
 
-### ode Institiute - CSS Transformations - Challenge 3C
+### Code Institiute - CSS Transformations - Challenge 3
