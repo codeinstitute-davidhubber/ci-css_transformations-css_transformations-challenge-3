@@ -1,4 +1,4 @@
-## CSS Transformations - Challenge 3
+### Code Institiute - CSS Transformations - Challenge 3
 
 ***
      ____  _   _ ____ _____ _   _ ____ ___ ___  
@@ -9,29 +9,27 @@
     -------------------------------------------
     .design
     
-***  
-title: **'CSS Transformations - Challenge 3'**
+***
 
-description: **'When hovered, move a div with a class of element on X axis by 100% in 1 second. Apply transitions.'**
+***
+#### project url: **'ci-css_transformations-css_transformations-challenge-3/'**
+***
+title: **'Code Institiute - CSS Transformations - Challenge 3'**
 
-author: **[DHSTUDIO](https://dhstudio.design "Title")** 
+description: **When hovered, move a div with a class of element on X axis by 100% in 1 second. Apply transitions.**
+
+author: **[DHSTUDIO](https://dhstudio.design "DHSTUDIO")** 
 
 author url: **<https://dhstudio.design>** 
 
-technology: **This project was written in HTML & CSS using [AWS Cloud9](https://aws.amazon.com/cloud9/ "Cloud9")**
-
-project url: **'https://davidhubber.github.io/css_transformations-css_transformations-challenge-3/'**  
+technology: **This project was written in HTML & CSS using [AWS Cloud9](https://aws.amazon.com/cloud9/ "Cloud9")** 
 
 
 ***
-
-#### This website was built as part of the learning material for Code Institutes' Fullstack Web Developer program.
- 
- 
+##### This website was built as part of the learning material for Code Institutes' Fullstack Web Developer program.
 ***
 credits: 
 
 **• generated title ASCII-Font url › [patorjk.com](http://patorjk.com/software/taag/#p=display&c=bash&f=Jerusalem&t=DHSTUDIO "Title")**
 
-# CSS Transformations - Challenge 3
-
+### ode Institiute - CSS Transformations - Challenge 3C
